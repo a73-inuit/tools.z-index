@@ -1,0 +1,21 @@
+{
+  "name": "a73-inuit-z-index-tools",
+  "version": "0.0.1",
+  "description": "Tools to manage z-index schemes",
+  "main": "_tools.z-index.scss",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/a73-inuit/tools.z-index.git"
+  },
+  "author": "Rodrigo Erades <rerades@siete3.com>",
+  "license": "Apache 2",
+  "bugs": {
+    "url": "https://github.com/a73-inuit/tools.z-index/issues"
+  },
+  "homepage": "https://github.com/a73-inuit/tools.z-index",
+  "keywords": [
+    "inuitcss",
+    "oocss",
+    "css"
+  ]
+}
