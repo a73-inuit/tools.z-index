@@ -1,6 +1,6 @@
 {
   "name": "a73-inuit-z-index-tools",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "homepage": "https://github.com/a73-inuit/tools.z-index",
   "authors": [
     "Rodrigo Erades <rerades@siete3.com>"
@@ -12,5 +12,8 @@
     "oocss",
     "css"
   ],
+  "dependencies": {
+    "a73-inuit-z-index-settings": "~0.1.0"
+  },
   "license": "Apache"
 }
